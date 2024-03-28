@@ -1,0 +1,122 @@
+[
+    {
+        "title": "Ruana all Black",
+        "description": "Ruana black",
+        "price": "1500",
+        "img": "Sin Imagen",
+        "code": "ruanas-01",
+        "stock": "10",
+        "category": "ruanas",
+        "status": true,
+        "thumbnails": [],
+        "id": 1
+      },
+    {
+        "title": "Ruana all white",
+        "description": "Ruana white ",
+        "price": "1500",
+        "img": "Sin Imagen",
+        "code": "ruanas-02",
+        "stock": "10",
+        "category": "ruanas",
+        "status": true,
+        "thumbnails": [],
+        "id": 2
+    },
+    {
+        "title": "Ruana Escosesa",
+        "description": "Ruana escosesa ",
+        "price": "1500",
+        "img": "Sin Imagen",
+        "code": "ruanas-02",
+        "stock": "10",
+        "category": "ruanas",
+        "status": true,
+        "thumbnails": [],
+        "id": 3
+    },
+    {
+        "title": "Ruana Ginna",
+        "description": "Ruana ginna ",
+        "price": "1500",
+        "img": "Sin Imagen",
+        "code": "ruanas-02",
+        "stock": "10",
+        "category": "ruanas",
+        "status": true,
+        "thumbnails": [],
+        "id": 4
+    },
+    {
+        "title": "Ruana Tomy",
+        "description": "Ruana Tomy   ",
+        "price": "1500",
+        "img": "Sin Imagen",
+        "code": "ruanas-02",
+        "stock": "10",
+        "category": "ruanas",
+        "status": true,
+        "thumbnails": [],
+        "id": 5
+    },
+    {
+        "title": "Ruana Melli",
+        "description": "Ruana melli ",
+        "price": "1500",
+        "img": "Sin Imagen",
+        "code": "ruanas-02",
+        "stock": "10",
+        "category": "ruanas",
+        "status": true,
+        "thumbnails": [],
+        "id": 6
+    },
+    {
+        "title": "Ruana Tyron   ",
+        "description": "Ruana tyron ",
+        "price": "1500",
+        "img": "Sin Imagen",
+        "code": "ruanas-02",
+        "stock": "10",
+        "category": "ruanas",
+        "status": true,
+        "thumbnails": [],
+        "id": 7
+    },
+    {
+        "title": "Ruana Pink",
+        "description": "Ruana Pink ",
+        "price": "1500",
+        "img": "Sin Imagen",
+        "code": "ruanas-02",
+        "stock": "10",
+        "category": "ruanas",
+        "status": true,
+        "thumbnails": [],
+        "id": 8
+    },
+    {
+        "title": "Ruana Verde",
+        "description": "Ruana verde ",
+        "price": "1500",
+        "img": "Sin Imagen",
+        "code": "ruanas-02",
+        "stock": "10",
+        "category": "ruanas",
+        "status": true,
+        "thumbnails": [],
+        "id": 9
+    },
+    {
+        "title": "Ruana princes ",
+        "description": "Ruana princes ",
+        "price": "1500",
+        "img": "Sin Imagen",
+        "code": "ruanas-02",
+        "stock": "10",
+        "category": "ruanas",
+        "status": true,
+        "thumbnails": [],
+        "id": 10
+    }
+]
